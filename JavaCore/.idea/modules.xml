@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassEnum/ClassEnum.iml" filepath="$PROJECT_DIR$/ClassEnum/ClassEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeQuy/DeQuy.iml" filepath="$PROJECT_DIR$/DeQuy/DeQuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Demo/Demo.iml" filepath="$PROJECT_DIR$/Basic/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ngayvagio/Ngayvagio.iml" filepath="$PROJECT_DIR$/Ngayvagio/Ngayvagio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Programs/Programs.iml" filepath="$PROJECT_DIR$/Basic/Programs/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/Basic/TryCatch/TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XuLyTep/XuLyTep.iml" filepath="$PROJECT_DIR$/XuLyTep/XuLyTep.iml" />
+    </modules>
+  </component>
+</project>
